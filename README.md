@@ -15,4 +15,4 @@ How to Use:
 4. Interact with ChatBot and Have Fun!
 
 Demo.py Output
-<img src="demo.py output.png"/>
+![](demo.py output.png)
