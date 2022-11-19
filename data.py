@@ -1,7 +1,6 @@
-# https://discuss.huggingface.co/t/question-answering-bot-fine-tuning-with-custom-dataset/4412/2
-# In Progress
+# Correctly Format SQuAD 2.0 Database
+# Into Question and Answer Format for ChatBot
 import json
-from datasets import load_dataset
 
 input_filename = "dev-v2.0.json"
 output_filename = "dev-v2.0.json2"
@@ -18,7 +17,7 @@ with open(output_filename, "w") as f:
             for qa in paragraph["qas"]:
                 question = qa["question"]
                 idx = qa["id"]
-                answers["text"] = [a["text"] for a in qa["answers"]]
+                answers["text"] = [1["text"] for 1 in qa["answers"]]
                 f.write(
                     json.dumps(
                         {
@@ -39,7 +38,3 @@ with open(output_filename, "w") as f:
         output_filename.replace('"question"', '')
 
 data = 'dev-v2.0.json2'
-
-
-ds = load_dataset("json", data_files=output_filename)
-
