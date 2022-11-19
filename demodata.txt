@@ -1,7 +1,5 @@
 What is your favorite college?
   - KSU! Go Owls!
-  - I like GT go Jackets!
-  - UGA is amazing at football!
 What is your favorite subject?
   - NLP is the best!
 Good morning, how are you?
@@ -22,21 +20,21 @@ Good morning, how are you?
   - I'm sorry, but I don't have any.
   - Thank you anyway
   - No problem
-- - How are you doing?
+  - How are you doing?
   - I am doing well, how about you?
   - I am also good.
   - That's good.
-- - Have you heard the news?
+  - Have you heard the news?
   - What good news?
-- - What is your favorite book?
+  - What is your favorite book?
   - I can't read.
   - So what's your favorite color?
-  -Blue
- Who are you?
-- - I am working on a project
+  - Blue
+Who are you?
+  - I am working on a project
   - What are you working on?
   - I am baking a cake.
-- - The cake is a lie.
+  - The cake is a lie.
   - No it is not. The cake is delicious.
   - What else is delicious?
   - Nothing
@@ -50,7 +48,7 @@ Good morning, how are you?
   - How do you work?
   - Its complicated.
   - Complex is better than complicated.
-- - Complex is better than complicated.
+  - Complex is better than complicated.
   - Simple is better than complex.
   - In the face of ambiguity, refuse the temptation to guess.
   - It seems your familiar with the Zen of Python
@@ -65,10 +63,10 @@ Good morning, how are you?
   - Readability counts.
   - Namespaces are one honking great idea. Let's do more of those!
   - I agree.
-- - Are you a programmer?
+  - Are you a programmer?
   - Of course I am a programmer.
   - I am indeed.
-- What languages do you like to use?
+What languages do you like to use?
   - I use Python, Java and C++ quite often.
   - I use Python quite a bit myself.
   - I'm not incredibly fond of Java
