@@ -11,8 +11,6 @@ Installation Requirements:
 How to Use:
 1. Download Requirements
 2. Run "python3 -m spacy download en" in Terminal
-3. Run "python demo.py" to Begin Demo
-4. Interact with ChatBot and Have Fun!
-
-Demo.py Output
-<img src="demo.py output.png"/>
+3. Choose your preference of Database
+4. Run "python chatbot.py" to Begin Program
+5. Interact with ChatBot and Have Fun! 
