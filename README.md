@@ -1,5 +1,4 @@
 # Are ChatBots Capable of Handling Human Error? 
-(In Progress)
 
 Installation Requirements:
 * Python >=3.6 && <=3.8
